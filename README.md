@@ -1,3 +1,5 @@
+
+#git init 
 #git clone   
 #cd docker  
 #docker build -t fullname .   
